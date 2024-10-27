@@ -1,0 +1,75 @@
+INFO Training log for Predator-Prey
+INFO 2024-10-22 22:42:56: Initializing.
+INFO N:100
+INFO n:300
+INFO seed:1
+INFO len_per_tra:300
+INFO cuda_device:1
+INFO AE_ckpt_path:../checkpoints/AE_dim_4_2024_04_08_11:13:43
+INFO hidden_dim:4
+INFO lr:0.005
+INFO patience:50
+INFO weight_decay:1e-06
+INFO num_epoch:2000
+INFO train_bs:256
+INFO test_bs:256
+INFO Training log for Predator-Prey
+INFO 2024-10-22 22:50:15: Initializing.
+INFO N:100
+INFO n:300
+INFO seed:1
+INFO len_per_tra:300
+INFO cuda_device:1
+INFO AE_ckpt_path:../checkpoints/AE_dim_4_2024_04_08_11:13:43
+INFO hidden_dim:4
+INFO lr:0.005
+INFO patience:50
+INFO weight_decay:1e-06
+INFO num_epoch:2000
+INFO train_bs:256
+INFO test_bs:256
+INFO Training log for Predator-Prey
+INFO 2024-10-22 22:51:20: Initializing.
+INFO N:100
+INFO n:300
+INFO seed:1
+INFO len_per_tra:300
+INFO cuda_device:1
+INFO AE_ckpt_path:../checkpoints/AE_dim_4_2024_04_08_11:13:43
+INFO hidden_dim:4
+INFO lr:0.005
+INFO patience:50
+INFO weight_decay:1e-06
+INFO num_epoch:2000
+INFO train_bs:256
+INFO test_bs:256
+INFO Training log for Predator-Prey
+INFO 2024-10-22 22:52:24: Initializing.
+INFO N:100
+INFO n:300
+INFO seed:1
+INFO len_per_tra:300
+INFO cuda_device:1
+INFO AE_ckpt_path:../checkpoints/AE_dim_4_2024_04_08_11:13:43
+INFO hidden_dim:4
+INFO lr:0.005
+INFO patience:50
+INFO weight_decay:1e-06
+INFO num_epoch:2000
+INFO train_bs:256
+INFO test_bs:256
+INFO Training log for Predator-Prey
+INFO 2024-10-22 22:54:17: Initializing.
+INFO N:100
+INFO n:300
+INFO seed:1
+INFO len_per_tra:600
+INFO cuda_device:1
+INFO AE_ckpt_path:../checkpoints/AE_dim_4_2024_04_08_11:13:43
+INFO hidden_dim:4
+INFO lr:0.005
+INFO patience:50
+INFO weight_decay:1e-06
+INFO num_epoch:2000
+INFO train_bs:256
+INFO test_bs:256

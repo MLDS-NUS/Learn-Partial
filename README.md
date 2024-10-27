@@ -1,62 +1,48 @@
 # Code for *Learning Macroscopic Dynamics from Partial Microscopic Observations*
 
-Simple overview of use/purpose.
+
+This repository contains the implementation of the methods and experiments from the paper 'Learning Macroscopic Dynamics from Partial Microscopic Observations' .
 
 ## Description
+This repository contains four experiments, each organized into a separate folder. We introduce the code and scripts needed to reproduce the experiments in detail in each respective folder. 
 
-An in-depth paragraph about your project and overview of use.
+* `Predator_Prey`: The implementation of the Predator-Prey experiment in the paper. 
+
+* `Lennard_Jones`: The implementation of the Lennard-Jones experiment in the paper. We consider Lennard-Jones system with 800 and 51200 atoms. 
+
+* `Allan_Cahn`: The implementation of the Allan-Cahn experiment in the paper. 
+
+* `Lennard_Jones_force_computations`: We reproduce Figure 4 of the paper in this folder. 
+Lennard-Jones system with 800, 2700, 6400, 21600 atoms are considered. 
+
 
 ## Getting Started
-
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+To get started, clone this repository to your local machine using the following command:
+```bash
+https://github.com/MLDS-NUS/Learn-from-Partial-Microscopic-dynamics.git
+```
 
 ### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
+To initialize the environment, create a new environment and install the prerequisite dependencies:
+```bash
+conda create -n newenv python=3.9.18
+conda activate newenv
+pip install -r requirements.txt
 ```
-code blocks for commands
-```
+### Dependencies
+* LAMMPS: We use LAMMPS (stable_2Aug2023) for data generation of Lennard-Jones experiment.
+* CUDA Version: 12.4
+* GPU Model: NVIDIA GeForce RTX 3090
 
-## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+## Executing program
+Detailed step-by-step instructions are provided within each folder
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
 
 ## References
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+**to be done**

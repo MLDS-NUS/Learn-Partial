@@ -1,7 +1,7 @@
 
-# Experiments on Allan-Cahn System  
+# Experiments on Allen-Cahn System  
 
-This is an implementation of our method on the Allan-Cahn System. 
+This is an implementation of our method on the Allen-Cahn System. 
 
 ## User Manual
 To run all the Python scripts for the Predator-Prey experiment together, execute the `run.sh` file:

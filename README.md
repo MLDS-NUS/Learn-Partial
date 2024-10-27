@@ -10,7 +10,7 @@ This repository contains four experiments, each organized into a separate folder
 
 * `Lennard_Jones`: The implementation of the Lennard-Jones experiment in the paper. We consider Lennard-Jones system with 800 and 51200 atoms. 
 
-* `Allan_Cahn`: The implementation of the Allan-Cahn experiment in the paper. 
+* `Allen-Cahn`: The implementation of the Allen-Cahn experiment in the paper. 
 
 * `Lennard_Jones_force_computations`: We reproduce Figure 4 of the paper in this folder. 
 Lennard-Jones system with 800, 2700, 6400, 21600 atoms are considered. 

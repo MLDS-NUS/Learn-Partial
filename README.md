@@ -45,4 +45,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## References
 
-**to be done**
+[1] Chen, Mengyi, and Qianxiao Li. "Learning macroscopic dynamics from partial microscopic observations." Advances in Neural Information Processing Systems 37 (2024): 48996-49021.
